@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.19.5",
+    "js-object-pretty-print": "^0.3.0",
+    "lodash": "^4.17.21",
     "next": "12.1.5",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "zustand": "^4.0.0-rc.0"
   },
   "devDependencies": {
     "eslint": "8.13.0",

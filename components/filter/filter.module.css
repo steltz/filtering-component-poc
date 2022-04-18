@@ -1,0 +1,23 @@
+.checkboxGroup {
+  display: flex;
+  flex-direction: column;
+}
+
+.filterContainer {
+  padding: 15px;
+}
+
+.innerContainer {
+  border: 2px solid black;
+  height: 100%;
+}
+
+.label {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.mainContainer {
+  height: 100vh;
+  padding: 30px;
+}
